@@ -1,4 +1,4 @@
-name: Django CI
+name: Integracion Continua Django
 
 on:
   push:
